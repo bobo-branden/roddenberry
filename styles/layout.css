@@ -1,0 +1,22 @@
+body{
+    background: url("../images/space.jpg") blue;
+    color: white;
+    font-size: 2em;
+    text-align: center;    
+    width: 80%;
+}
+header{
+    padding: 0;
+    
+}
+#banner {
+    width: 100%;
+    border: 1rem outset darkblue;
+}
+.snug {
+    padding: 0;
+    margin: 0;
+}
+.centered {
+    margin: 0 auto;
+  }
